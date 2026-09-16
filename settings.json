@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DienBienPhu-SMP.aternos.me",
-    "port": 37907,
+    "ip": "DienBienPhuSMP.aternos.me",
+    "port": 37856,
     "version": "",
     "try-creative": false
   },
